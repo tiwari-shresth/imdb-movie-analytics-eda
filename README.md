@@ -74,16 +74,16 @@ IMDb-EDA-Project/
 ## 🖼️ Visual Snapshots
 
 ### 📊 Profit vs Budget Analysis
-![Profit vs Budget](images/plot.png)
+![Profit vs Budget](plot.png)
 
 ### ⏱️ Movie Runtime Distribution
-![Runtime Distribution](images/runtime.png)
+![Runtime Distribution](runtime.png)
 
 ### 🌡️ Demographic Heatmap Analysis
-![Demographic Heatmap](images/heatmap.png)
+![Demographic Heatmap](heatmap.png)
 
 ### 📦 US vs Non-US Movie Preferences
-![Boxplot Analysis](images/boxplot.png)
+![Boxplot Analysis](boxplot.png)
 
 ---
 
